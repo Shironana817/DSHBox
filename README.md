@@ -285,3 +285,4 @@ v1.5.0 进一步补齐设备返回键与 DSH 内部面板的层级衔接，抑�
 三个自有插件 `dsh-mobile-adapt`、`mobile-pilot` 与 `browser-use` 各附完整 LICENSE、NOTICE，并声明为 **GPL-3.0-only**；第三方依赖保留各自原许可。可在「设置 → 关于 → 开源许可」离线查看随包许可，来源与源码重建说明见 [`licenses/README.md`](licenses/README.md)。
 
 **品牌标识不在上述授权范围内。** App 名称、应用图标与应用内自有品牌图形（清单见 [`TRADEMARK.md`](TRADEMARK.md)）由项目权利人独占持有，全部权利保留；未经许可不得用于修改版 / 衍生版，或用于可能造成混淆的标识。
+#
